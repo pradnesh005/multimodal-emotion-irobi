@@ -1,0 +1,9 @@
+
+
+torch==2.3.1
+torchaudio==2.3.1
+numpy
+scikit-learn
+librosa
+soundfile
+tqdm

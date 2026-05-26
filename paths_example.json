@@ -1,0 +1,6 @@
+{
+  "cremad_audio_dir": "data/CREMA-D/AudioWAV",
+  "ravdess_audio_dir": "data/RAVDESS/AudioSpeech",
+  "esc50_dir": null,
+  "out_dir": "runs/ser_crnn"
+}
